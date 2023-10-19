@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+
+/* Dentro do arquivo styles.css */
+/* Exemplo de classes de estilos personalizados */
+.container {
+    margin: 0 auto; /* Centraliza elementos com margens laterais automáticas */
+    max-width: 960px; /* Define a largura máxima do container */
+}
+
+.text-clean {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.bg-custom {
+    background-color: #2e1c1c; /* Substitua #333 pela cor desejada */
+}
+
